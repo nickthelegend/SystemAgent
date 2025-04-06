@@ -3,9 +3,7 @@
 SystemAgent is a Python-based interactive assistant powered by **Gemni** , **Browseruse** , and integrated **speech-to-text** and **text-to-speech APIs** . It offers seamless voice and web interactions.
 
 # Walkthrough
-
-
-
+https://github.com/user-attachments/assets/3f8f89c4-ad6f-43bc-8ddc-377bc7d39d5b
 ## Features
 
 * **Gemni:** Intelligent core for decision making.
